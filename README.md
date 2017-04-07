@@ -1,2 +1,4 @@
 # hello-world
-my first repository on GitHub
+
+Salam all!
+Fallilou is my name and i'm hear for learning!
